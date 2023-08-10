@@ -40,5 +40,5 @@ These four steps are applied repetitively in each phase during development. Appl
         * The finalized sensor trade study report with final recommendation...
           * `Sensor Trade Study Report.pdf`
     
-    *The Cameo model report for the Package Delivery Drone
+    * The Cameo model report for the Package Delivery Drone
       * `model report.pptx`
