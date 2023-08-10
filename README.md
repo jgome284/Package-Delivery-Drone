@@ -42,3 +42,8 @@ These four steps are applied repetitively in each phase during development. Appl
     
     * The Cameo model report for the Package Delivery Drone
       * `model report.pptx`
+  
+  * In the `model` directory.
+    * System Model of the 4-passenger hybrid vehicle, `.mdzip` file available to import into cameo with addtional `.mdzip.bak` backup file.
+      * `Package Delivery Drone.mdzip`
+      * `Package Delivery Drone.mdzip.bak`
